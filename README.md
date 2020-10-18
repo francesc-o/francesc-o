@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src = "https://media.giphy.com/media/7cuhARDJq3mBASkXSI/giphy.gif">
+  <img src="https://media.giphy.com/media/ObgDRh95r3OyvBrDxf/giphy.gif" style="width: 100%; max-height: 100%" />
 </p>
 
 🧑🏼‍💻 iOS Developer based in Italy
