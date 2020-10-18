@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src = "https://media0.giphy.com/media/NQJqR7OuWb8bNhrguT/giphy.gif">
 
 <!--
 **francesc-o/francesc-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
