@@ -3,10 +3,10 @@
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ObgDRh95r3OyvBrDxf/giphy.gif" style="width: 100%; max-height: 100%" />
+  <img src="https://media.giphy.com/media/F2vqLi7vpIOfBfuslV/giphy.gif">
 </p>
 
-🧑🏼‍💻 iOS Developer based in Italy
+###🧑🏼‍💻 iOS Developer based in Italy
 
 📱 Currently @ Beatcode, previously ShopFully Group and Apple Developer Academy
 
